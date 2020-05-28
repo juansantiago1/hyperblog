@@ -5,3 +5,15 @@ body
 	font-family: "arial";
 	font-size: 16px;
 }
+#container
+{
+	width: 70%;
+	padding: 1em;
+	text-align: left;
+	border: 1px solid #ddd;
+	margin: auto;
+}
+#comtainer h1
+{
+	font-size: 20px;
+}
